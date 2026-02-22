@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Olivia Tigner - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
