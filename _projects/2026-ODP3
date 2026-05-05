@@ -18,7 +18,7 @@ image: assets\images\ODP3cover.png
 <p>Original Project Pitch:<br>
 
 <a href="{{ "/assets/O3_Lighthousepitch.pdf" | relative_url }}" target="_blank">
-  <img src="{{ "/assets/lighthousePreview.png" | relative_url }}" width="100%">
+  <img src="{{ "/assets/O3_LighthousepitchPreview.PNG" | relative_url }}" width="100%">
 </a>
 
 
@@ -60,4 +60,3 @@ image: assets\images\ODP3cover.png
 <a href="{{ "/assets/ODP6_ClientReport.pdf" | relative_url }}" target="_blank">
   <img src="{{ "/assets/ODP6_ClientReportP3.png" | relative_url }}" width="100%">
 </a>
-
