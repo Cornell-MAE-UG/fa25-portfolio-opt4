@@ -2,35 +2,62 @@
 layout: project
 title: ODP3
 description: Open Design Project - Client Outline & Pitch
-technologies: []
 image: assets\images\ODP3cover.png
 
 ---
 
 2/21/2026
 
-As part of my mechanical design class, I am working with a group of my peers to explore potential mechanical solutions to the issue of spotted lanternflies (SLF) severely damaging New York’s grape and wine industry, significantly reducing both crop yield and quality.
+<p>As part of my mechanical design class, I am working with a group of my peers to explore potential mechanical solutions to the issue of spotted lanternflies (SLF) severely damaging New York’s grape and wine industry, significantly reducing both crop yield and quality.</p>
 
-So far, we have outlined one potential solution we would like to examine further: a decoy lure to be mounted in trees of heaven. This would be a scalable, treemounted humidifier system that emits attractant and insecticidal vapors to draw spotted lanternflies away from grapevines and onto nearby replaceable sticky tape, reducing population without directly impacting the harvest. SLF are highly attracted to the 'tree of heaven,' so placing it here could target the SLF more effectively.
+<p>So far, we have outlined one potential solution we would like to examine further: a decoy lure to be mounted in trees of heaven. This would be a scalable, treemounted humidifier system that emits attractant and insecticidal vapors to draw spotted lanternflies away from grapevines and onto nearby replaceable sticky tape, reducing population without directly impacting the harvest. SLF are highly attracted to the 'tree of heaven,' so placing it here could target the SLF more effectively.</p>
 
-My group members were Andy Chen, Allison Newman, Jacob Kupperman, and Marcus Pang.  
-
-
-Original Project Pitch:
-
-<iframe 
-  src="{{ "/assets/O3_Lighthousepitch.pdf" | relative_url }}" 
-  style="width:100%; height:80vh;">
-</iframe>
+<p>My group members were Andy Chen, Allison Newman, Jacob Kupperman, and Marcus Pang.</p>
 
 
-Functional Protoype:
+<p>Original Project Pitch:<br>
 
-hello
-
-Client Report:
-
-
+<a href="{{ "/assets/O3_Lighthousepitch.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/lighthousePreview.png" | relative_url }}" width="100%">
+</a>
 
 
+<p>Functional Protoype:
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP1.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP2.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP3.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP4.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP5.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP6.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP7.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP5_FunctionalPrototypeP8.png" | relative_url }}" width="100%">
+</a>
+
+
+<p>Client Report:
+
+<a href="{{ "/assets/ODP6_ClientReport.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP6_ClientReportP1.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP6_ClientReport.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP6_ClientReportP2.png" | relative_url }}" width="100%">
+</a>
+<a href="{{ "/assets/ODP6_ClientReport.pdf" | relative_url }}" target="_blank">
+  <img src="{{ "/assets/ODP6_ClientReportP3.png" | relative_url }}" width="100%">
+</a>
 
