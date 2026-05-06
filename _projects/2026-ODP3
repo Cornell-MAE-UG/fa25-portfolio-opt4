@@ -6,8 +6,16 @@ image: assets\images\ODP3cover.png
 
 ---
 
-2/21/2026
+2/21/2026<br>
+---
+Go to:
+<a href="#section0">Introduction</a><br>
+<a href="#section1">Original Project Pitch</a><br>
+<a href="#section2">Functional Prototype</a><br>
+<a href="#section3">Client Report</a><br>
+---<br>
 
+<p><h2 id="section0">Introduction</h2>
 <p>As part of my mechanical design class, I am working with a group of my peers to explore potential mechanical solutions to the issue of spotted lanternflies (SLF) severely damaging New York’s grape and wine industry, significantly reducing both crop yield and quality.</p>
 
 <p>So far, we have outlined one potential solution we would like to examine further: a decoy lure to be mounted in trees of heaven. This would be a scalable, treemounted humidifier system that emits attractant and insecticidal vapors to draw spotted lanternflies away from grapevines and onto nearby replaceable sticky tape, reducing population without directly impacting the harvest. SLF are highly attracted to the 'tree of heaven,' so placing it here could target the SLF more effectively.</p>
@@ -15,14 +23,14 @@ image: assets\images\ODP3cover.png
 <p>My group members were Andy Chen, Allison Newman, Jacob Kupperman, and Marcus Pang.</p>
 
 
-<p>Original Project Pitch:<br>
+<p><h2 id="section1">Original Project Pitch</h2>
 
 <a href="{{ "/assets/O3_Lighthousepitch.pdf" | relative_url }}" target="_blank">
   <img src="{{ "/assets/O3_LighthousepitchPreview.PNG" | relative_url }}" width="100%">
 </a>
 
 
-<p>Functional Protoype:
+<p><h2 id="section2">Functional Prototype</h2>
 <a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
   <img src="{{ "/assets/ODP5_FunctionalPrototypeP1.png" | relative_url }}" width="100%">
 </a>
@@ -49,7 +57,7 @@ image: assets\images\ODP3cover.png
 </a>
 
 
-<p>Client Report:
+<p><h2 id="section3">Client Report</h2>
 
 <a href="{{ "/assets/ODP6_ClientReport.pdf" | relative_url }}" target="_blank">
   <img src="{{ "/assets/ODP6_ClientReportP1.png" | relative_url }}" width="100%">
