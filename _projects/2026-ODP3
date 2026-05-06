@@ -2,7 +2,7 @@
 layout: project
 title: ODP3
 description: Open Design Project - Client Outline & Pitch
-image: assets\images\ODP3cover.png
+image: assets/images/ODP3cover.png
 
 ---
 
@@ -15,7 +15,7 @@ Go to:
 <a href="#section3">Client Report</a><br>
 ---<br>
 
-<p><h2 id="section0">Introduction</h2>
+<p><h3 id="section0">Introduction</h3>
 <p>As part of my mechanical design class, I am working with a group of my peers to explore potential mechanical solutions to the issue of spotted lanternflies (SLF) severely damaging New York’s grape and wine industry, significantly reducing both crop yield and quality.</p>
 
 <p>So far, we have outlined one potential solution we would like to examine further: a decoy lure to be mounted in trees of heaven. This would be a scalable, treemounted humidifier system that emits attractant and insecticidal vapors to draw spotted lanternflies away from grapevines and onto nearby replaceable sticky tape, reducing population without directly impacting the harvest. SLF are highly attracted to the 'tree of heaven,' so placing it here could target the SLF more effectively.</p>
@@ -23,14 +23,14 @@ Go to:
 <p>My group members were Andy Chen, Allison Newman, Jacob Kupperman, and Marcus Pang.</p>
 
 
-<p><h2 id="section1">Original Project Pitch</h2>
+<p><h3 id="section1">Original Project Pitch </h3>
 
 <a href="{{ "/assets/O3_Lighthousepitch.pdf" | relative_url }}" target="_blank">
-  <img src="{{ "/assets/O3_LighthousepitchPreview.PNG" | relative_url }}" width="100%">
+  <img src="{{ "/assets/O3_LighthousepitchPreview.png" | relative_url }}" width="100%">
 </a>
 
 
-<p><h2 id="section2">Functional Prototype</h2>
+<p><h3 id="section2">Functional Prototype</h3>
 <a href="{{ "/assets/ODP5_FunctionalPrototype.pdf" | relative_url }}" target="_blank">
   <img src="{{ "/assets/ODP5_FunctionalPrototypeP1.png" | relative_url }}" width="100%">
 </a>
@@ -57,7 +57,7 @@ Go to:
 </a>
 
 
-<p><h2 id="section3">Client Report</h2>
+<p><h3 id="section3">Client Report</h3>
 
 <a href="{{ "/assets/ODP6_ClientReport.pdf" | relative_url }}" target="_blank">
   <img src="{{ "/assets/ODP6_ClientReportP1.png" | relative_url }}" width="100%">
